@@ -1,0 +1,22 @@
+/* Basic CSS styling
+   Reference: W3Schools CSS Tutorial */
+
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.section {
+    padding: 40px 0;
+}
+
+.hero {
+    padding: 50px;
+    background-color: #e9ecef;
+    text-align: center;
+}
+
+.hero img {
+    width: 150px;
+    border-radius: 50%;
+}
